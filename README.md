@@ -1,4 +1,4 @@
-# Google interface Cloning" in HTML5 and CSS3 created within the TecnoloChicasPRO Bootcamp, by the hand of Nancy Salazar.
+# "Google interface Cloning" in HTML5 and CSS3 created within the TecnoloChicasPRO Bootcamp, by the hand of Nancy Salazar.
 
 
 ## INDEX
